@@ -14,3 +14,6 @@ Several property owners are involved in the Land Registration Bureaucratic Proce
 ## Solution
 
 A web3 based website focused on making real estate more easier; Trent focuses on solving real estate Operability problems by introducing blockchain into the traditional real estate processes by eliminating middlemen and improving real estate services by introducing tokenized ownership through the awesome power of smart contracts, prevention of title fraud, crowdfunding investments and title transfer transparency.
+
+## Propsed stack: 
+Javascript,Solidity,truffle,Web3,Html,CSS
