@@ -1,5 +1,7 @@
 #NaijaHacks Hackathon 2019
+
 #Project: Trent
+
 #Team
 - Akinnusotu Temitayo,akinnusotutemitayodaniel@gmail.com,Blockchain and web developer
 - Awe Mary, awemary97@gmail.com, Frontend Engineer and Web App developer
